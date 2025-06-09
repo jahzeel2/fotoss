@@ -11,7 +11,7 @@ const HeroCarousel = () => {
       subtitle: 'Despierta con el sonido del agua cristalina'
     },
     {
-      image: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/IMG_9265.JPG',
+      image: 'https://github.com/jahzeel2/fotoss/blob/main/src/assets/img/atardecer%20ariel.CR2',
       title: 'Atardeceres Mágicos',
       subtitle: 'Vive momentos únicos en la naturaleza'
     },
