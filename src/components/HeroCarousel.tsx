@@ -6,7 +6,7 @@ const HeroCarousel = () => {
 
   const slides = [
     {
-      image: 'https://drive.google.com/file/d/1h_GxhZ1UOuFNOnZ38H_ptvtV5d82sj8Q/view?usp=sharing',
+      image: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/IMG_8381.webp',
       title: 'Cabañas Frente al Río',
       subtitle: 'Despierta con el sonido del agua cristalina'
     },
