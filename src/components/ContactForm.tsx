@@ -72,7 +72,7 @@ const ContactForm = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-gray-800 mb-1">WhatsApp</h4>
-                    <p className="text-gray-600">+54 9 3541 123456</p>
+                    <p className="text-gray-600">+54 9 3624 611621</p>
                     <p className="text-sm text-gray-500">Respuesta inmediata 24/7</p>
                   </div>
                 </div>

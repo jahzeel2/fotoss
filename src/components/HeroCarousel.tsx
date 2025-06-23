@@ -16,7 +16,7 @@ const HeroCarousel = () => {
       subtitle: 'Vive momentos únicos en la naturaleza'
     },
     {
-      image: 'https://images.pexels.com/photos/1001435/pexels-photo-1001435.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop',
+      image: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/jose_ariel_jahzeel.jpg',
       title: 'Aventuras Náuticas',
       subtitle: 'Explora el río con nuestras actividades'
     }

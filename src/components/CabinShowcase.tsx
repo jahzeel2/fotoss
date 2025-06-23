@@ -5,7 +5,7 @@ const CabinShowcase = () => {
   const cabins = [
     {
       id: 1,
-      name: 'Cabaña Río Azul',
+      name: 'Cabaña 1',
       image: 'https://images.pexels.com/photos/1029604/pexels-photo-1029604.jpeg?auto=compress&cs=tinysrgb&w=800',
       capacity: '4-6 personas',
       price: '$150/noche',
