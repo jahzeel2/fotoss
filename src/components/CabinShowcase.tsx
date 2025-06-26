@@ -6,22 +6,22 @@ const CabinShowcase = () => {
     {
       id: 1,
       name: 'Cabaña 1',
-      image: 'https://images.pexels.com/photos/1029604/pexels-photo-1029604.jpeg?auto=compress&cs=tinysrgb&w=800',
-      capacity: '4-6 personas',
+      image: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/IMG_8376.JPG',
+      capacity: '6 personas',
       price: '$150/noche',
       rating: 4.9,
-      amenities: ['WiFi', 'Estacionamiento', 'Cocina completa', 'Baño privado'],
-      features: ['Vista al río', 'Deck privado', 'Parrilla', 'Aire acondicionado']
+      amenities: ['WiFi', 'Estacionamiento', 'Cocina completa', 'Baño privado','2 habitaciones'],
+      features: ['Tele', 'Deck privado', 'Parrilla', 'Aire acondicionado','Segutidad del country']
     },
     {
       id: 2,
-      name: 'Cabaña Bosque Verde',
+      name: 'Cabaña 2',
       image: 'https://images.pexels.com/photos/2861361/pexels-photo-2861361.jpeg?auto=compress&cs=tinysrgb&w=800',
       capacity: '2-4 personas',
       price: '$120/noche',
       rating: 4.8,
       amenities: ['WiFi', 'Estacionamiento', 'Cocina completa', 'Baño privado'],
-      features: ['Rodeada de naturaleza', 'Chimenea', 'Hamacas', 'Zona de lectura']
+      features: ['Rodeada de naturaleza', 'Cocina a Gas', 'Termotanque', 'Ropa de Cama',' a 200 de Playa privada']
     },
     {
       id: 3,

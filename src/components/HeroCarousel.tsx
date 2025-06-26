@@ -7,7 +7,7 @@ const HeroCarousel = () => {
   const slides = [
     {
       image: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/IMG_8381.webp',
-      title: 'Cabañas Frente al Río',
+      title: 'Cabañas a Metros del Rio',
       subtitle: 'Despierta con el sonido del agua cristalina'
     },
     {
@@ -37,6 +37,8 @@ const HeroCarousel = () => {
     setCurrentSlide((prev) => (prev - 1 + slides.length) % slides.length);
   };
 
+
+  
   return (
     <section id="home" className="relative h-screen overflow-hidden">
       {/* Slides */}

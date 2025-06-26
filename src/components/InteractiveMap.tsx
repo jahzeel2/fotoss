@@ -22,7 +22,7 @@ const InteractiveMap = () => {
               <div className="text-center">
                 <MapPin className="w-16 h-16 text-blue-600 mx-auto mb-4" />
                 <h3 className="text-2xl font-bold text-gray-800 mb-2">El Capricho Resort</h3>
-                <p className="text-gray-600 mb-4">Barrio Privado Los Rápidos</p>
+                <p className="text-gray-600 mb-4">Barrio Privado Rincon Santa Maria</p>
                 <button className="bg-gradient-to-r from-blue-600 to-green-600 text-white px-6 py-3 rounded-xl font-semibold hover:shadow-lg transition-all duration-200">
                   Ver en Google Maps
                 </button>
@@ -40,9 +40,9 @@ const InteractiveMap = () => {
                 <div>
                   <h3 className="text-xl font-bold text-gray-800 mb-2">Dirección</h3>
                   <p className="text-gray-600">
-                    Barrio Privado Los Rápidos<br />
-                    Km 25 Ruta Provincial 123<br />
-                    Villa Carlos Paz, Córdoba
+                    Rincon Santa Maria<br />
+                    <br />
+                    Ituzaingo, Corrientes 
                   </p>
                 </div>
               </div>
@@ -56,10 +56,10 @@ const InteractiveMap = () => {
                 <div>
                   <h3 className="text-xl font-bold text-gray-800 mb-2">Cómo Llegar</h3>
                   <p className="text-gray-600">
-                    • 45 min desde Córdoba Capital<br />
-                    • 15 min desde Villa Carlos Paz<br />
+                    • A 10 minutos de la Rotonda de Ituzango<br />
+                    <br />
                     • Estacionamiento gratuito<br />
-                    • Acceso pavimentado
+                    • Acceso Con Seguridad
                   </p>
                 </div>
               </div>
@@ -73,8 +73,8 @@ const InteractiveMap = () => {
                 <div>
                   <h3 className="text-xl font-bold text-gray-800 mb-2">Horarios</h3>
                   <p className="text-gray-600">
-                    Check-in: 15:00 hs<br />
-                    Check-out: 11:00 hs<br />
+                    Check-in: 14:00 AM<br />
+                    Check-out: 10:00 AM<br />
                     Recepción: 24 hs<br />
                     Actividades: 08:00 - 18:00 hs
                   </p>
