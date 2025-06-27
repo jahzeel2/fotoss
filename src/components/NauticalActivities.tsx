@@ -19,35 +19,35 @@ const NauticalActivities = () => {
     {
       id: 2,
       name: 'Fly Fishing',
-      image: 'https://images.pexels.com/photos/1545743/pexels-photo-1545743.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/pesca/IMG-20250624-WA0092.jpg',
       description: 'Pesca con mosca en los mejores spots del río con instructores de primera linea',
       duration: '4-6 horas',
       capacity: 'Hasta 4 personas',
       price: '$ A Consultar',
       rating: 5.0,
-      includes: ['Equipo completo', 'Instructor certificado', 'Licencia de pesca', 'Almuerzo']
+      includes: ['Equipo completo', 'Instructor certificado','Embarcacion Plataformada', 'Almuerzo']
     },
     {
       id: 3,
       name: 'Pesca Bait',
-      image: 'https://images.pexels.com/photos/6120213/pexels-photo-6120213.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/pesca/IMG-20250624-WA0080.jpg',
       description: 'Kayaks individuales y dobles para explorar a tu ritmo',
       duration: 'Por horas',
       capacity: '1-2 personas',
-      price: '$25 por hora',
+      price: '$ A consultar',
       rating: 4.8,
-      includes: ['Kayak y remo', 'Chaleco salvavidas', 'Instrucciones básicas', 'Mapa del río']
+      includes: ['Embarcacion Plataformada', 'Chaleco salvavidas', 'Instrucciones básicas', 'Mapa del río']
     },
     {
       id: 4,
-      name: 'Clases de Navegación',
+      name: 'Curso Fly Fishing con atado',
       image: 'https://images.pexels.com/photos/1662298/pexels-photo-1662298.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Aprende navegación básica y avanzada con instructores certificados',
-      duration: 'Medio día',
+      duration: 'Un finde semana',
       capacity: 'Hasta 6 personas',
-      price: '$150 por persona',
-      rating: 4.9,
-      includes: ['Instructor certificado', 'Material teórico', 'Práctica en agua', 'Certificado']
+      price: '$ A consultar',
+      rating: 5,
+      includes: ['Instructor certificado', 'Noche de Atado', 'Práctica en el Rio', 'Invitado Sorpresa']
     }
   ];
 
