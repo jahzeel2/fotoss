@@ -8,11 +8,11 @@ const NauticalActivities = () => {
     {
       id: 1,
       name: 'Paseos en Lancha',
-      image: 'https://images.pexels.com/photos/1001435/pexels-photo-1001435.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/paseos%20en%20lancha/IMG-20250624-WA0149.jpg',
       description: 'Explora el río en nuestras modernas lanchas con guía experimentado',
       duration: '2-3 horas',
       capacity: 'Hasta 8 personas',
-      price: '$80 por persona',
+      price: '$A Consultar',
       rating: 4.9,
       includes: ['Guía profesional', 'Chaleco salvavidas', 'Refrigerios', 'Fotos']
     },
@@ -20,16 +20,16 @@ const NauticalActivities = () => {
       id: 2,
       name: 'Fly Fishing',
       image: 'https://images.pexels.com/photos/1545743/pexels-photo-1545743.jpeg?auto=compress&cs=tinysrgb&w=800',
-      description: 'Pesca con mosca en los mejores spots del río con instructores certificados',
+      description: 'Pesca con mosca en los mejores spots del río con instructores de primera linea',
       duration: '4-6 horas',
       capacity: 'Hasta 4 personas',
-      price: '$120 por persona',
+      price: '$ A Consultar',
       rating: 5.0,
       includes: ['Equipo completo', 'Instructor certificado', 'Licencia de pesca', 'Almuerzo']
     },
     {
       id: 3,
-      name: 'Alquiler de Kayaks',
+      name: 'Pesca Bait',
       image: 'https://images.pexels.com/photos/6120213/pexels-photo-6120213.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Kayaks individuales y dobles para explorar a tu ritmo',
       duration: 'Por horas',
