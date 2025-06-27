@@ -18,7 +18,7 @@ const FloatingWhatsApp = () => {
   }, []);
 
   const handleWhatsAppClick = () => {
-    const phoneNumber = '5493541123456';
+    const phoneNumber = '5493624611621';
     const message = encodeURIComponent('Hola! Me interesa conocer más sobre El Capricho Resort & Náutica. ¿Podrían brindarme información sobre disponibilidad y actividades?');
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${message}`;
     window.open(whatsappUrl, '_blank');
