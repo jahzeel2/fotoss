@@ -8,7 +8,7 @@ const CabinShowcase = () => {
       name: 'Cabaña 1',
       image: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/IMG_8376.JPG',
       capacity: '6 personas',
-      price: '$150/noche',
+      price: 'A consultar',
       rating: 4.9,
       amenities: ['WiFi', 'Estacionamiento', 'Cocina completa', 'Baño privado','2 habitaciones'],
       features: ['Tele', 'Deck privado', 'Parrilla', 'Aire acondicionado','Segutidad del country']
@@ -16,22 +16,22 @@ const CabinShowcase = () => {
     {
       id: 2,
       name: 'Cabaña 2',
-      image: 'https://images.pexels.com/photos/2861361/pexels-photo-2861361.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/caba%C3%B1as/IMG-20250523-WA0053.jpg',
       capacity: '2-4 personas',
-      price: '$120/noche',
+      price: 'A consultar',
       rating: 4.8,
       amenities: ['WiFi', 'Estacionamiento', 'Cocina completa', 'Baño privado'],
       features: ['Rodeada de naturaleza', 'Cocina a Gas', 'Termotanque', 'Ropa de Cama',' a 200 de Playa privada']
     },
     {
       id: 3,
-      name: 'Cabaña Atardecer',
-      image: 'https://images.pexels.com/photos/1933316/pexels-photo-1933316.jpeg?auto=compress&cs=tinysrgb&w=800',
-      capacity: '6-8 personas',
-      price: '$200/noche',
+      name: 'Cabaña 4',
+      image: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/caba%C3%B1as/IMG-20250527-WA0047.jpg',
+      capacity: '10 personas',
+      price: 'A consultar',
       rating: 5.0,
       amenities: ['WiFi', 'Estacionamiento', 'Cocina completa', 'Baño privado'],
-      features: ['Vista panorámica', 'Jacuzzi exterior', 'Sala de estar amplia', 'Terraza grande']
+      features: ['Quincho Propio', 'Muy Amplio', 'Sala de estar amplia', 'Cocina Propia']
     }
   ];
 
