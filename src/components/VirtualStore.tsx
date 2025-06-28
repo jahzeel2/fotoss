@@ -71,7 +71,7 @@ const VirtualStore = () => {
     },
     {
       id: 6,
-      name: 'Señuelos Premium Set',
+      name: 'Señuelos DON KB',
       category: 'fishing',
       image: 'https://images.pexels.com/photos/1545743/pexels-photo-1545743.jpeg?auto=compress&cs=tinysrgb&w=400',
       price: 89,
