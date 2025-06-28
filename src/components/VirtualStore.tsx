@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { ShoppingCart, Filter, Star, Heart } from 'lucide-react';
+import { ShoppingCart, Star, Heart } from 'lucide-react';
 
 const VirtualStore = () => {
   const [selectedCategory, setSelectedCategory] = useState('all');
@@ -29,7 +29,7 @@ const VirtualStore = () => {
       id: 2,
       name: 'Combo Fly caña TFO 8 Y 5',
       category: 'fishing',
-      image: 'https://images.pexels.com/photos/1545743/pexels-photo-1545743.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/productos/combo%20ntx%20fly%20tfo.png',
       price: 'A consultar',
       originalPrice: null,
       rating: 4.9,
