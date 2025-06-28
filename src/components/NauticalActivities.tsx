@@ -41,8 +41,8 @@ const NauticalActivities = () => {
     {
       id: 4,
       name: 'Curso Fly Fishing con atado',
-      image: 'https://images.pexels.com/photos/1662298/pexels-photo-1662298.jpeg?auto=compress&cs=tinysrgb&w=800',
-      description: 'Aprende navegación básica y avanzada con instructores certificados',
+      image: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/pesca/jornada%20de%20pesca.jpg',
+      description: 'Aprende con los mejores el Arte del Fly Fishing',
       duration: 'Un finde semana',
       capacity: 'Hasta 6 personas',
       price: '$ A consultar',

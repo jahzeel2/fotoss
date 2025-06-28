@@ -27,10 +27,10 @@ const VirtualStore = () => {
     },
     {
       id: 2,
-      name: 'Caña de Pescar Fly Premium',
+      name: 'Combo Fly caña TFO 8 Y 5',
       category: 'fishing',
       image: 'https://images.pexels.com/photos/1545743/pexels-photo-1545743.jpeg?auto=compress&cs=tinysrgb&w=400',
-      price: 299,
+      price: 'A consultar',
       originalPrice: null,
       rating: 4.9,
       reviews: 89,
