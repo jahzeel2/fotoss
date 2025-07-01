@@ -27,7 +27,7 @@ const PhotoGallery = () => {
     // Paseos en Lancha
     {
       id: 1,
-      src: 'src/assets/img/pesca/lanchas-paseos.JPG',
+      src: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/pesca/lanchas-paseos.JPG',
       alt: 'Paseo en lancha al atardecer',
       category: 'boat-tours',
       title: 'Atardecer Dorado',
@@ -35,7 +35,7 @@ const PhotoGallery = () => {
     },
     {
       id: 2,
-      src: 'src/assets/img/paseos en lancha/IMG-20250624-WA0151.jpg',
+      src: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/paseos%20en%20lancha/IMG-20250624-WA0151.jpg',
       alt: 'Lancha navegando en el río',
       category: 'boat-tours',
       title: 'Explorando el Río',
@@ -43,7 +43,7 @@ const PhotoGallery = () => {
     },
     {
       id: 3,
-      src: 'src/assets/img/paseos en lancha/IMG-20250624-WA0154.jpg',
+      src: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/paseos%20en%20lancha/IMG-20250624-WA0154.jpg',
       alt: 'Familia disfrutando del paseo',
       category: 'boat-tours',
       title: 'Momentos en Familia',
@@ -51,7 +51,7 @@ const PhotoGallery = () => {
     },
     {
       id: 4,
-      src: 'src/assets/img/paseos en lancha/IMG-20250624-WA0180.jpg',
+      src: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/paseos%20en%20lancha/IMG-20250624-WA0180.jpg',
       alt: 'Vista panorámica desde la lancha',
       category: 'boat-tours',
       title: 'Vistas Panorámicas',
@@ -61,7 +61,7 @@ const PhotoGallery = () => {
     // Pesca con Carnada
     {
       id: 5,
-      src: 'src/assets/img/pesca/WhatsApp Image 2025-06-24 at 12.51.32.jpeg',
+      src: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/pesca/WhatsApp%20Image%202025-06-24%20at%2012.51.32.jpeg',
       alt: 'Pescador con gran captura',
       category: 'fly-fishing',
       title: 'Gran Captura',
@@ -69,7 +69,7 @@ const PhotoGallery = () => {
     },
     {
       id: 6,
-      src: 'src/assets/img/pesca/pesca-bait.jpeg',
+      src: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/pesca/pesca-bait.jpeg',
       alt: 'Preparando carnada',
       category: 'bait-fishing',
       title: 'Preparación Perfecta',
@@ -77,7 +77,7 @@ const PhotoGallery = () => {
     },
     {
       id: 7,
-      src: 'src/assets/img/pesca/IMG-20250624-WA0080.jpg',
+      src: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/pesca/IMG-20250624-WA0080.jpg',
       alt: 'Pesca desde Islas',
       category: 'bait-fishing',
       title: 'Pesca de Orilla',
