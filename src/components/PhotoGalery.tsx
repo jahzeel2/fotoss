@@ -85,7 +85,7 @@ const PhotoGallery = () => {
     },
     {
       id: 8,
-      src: 'https://images.pexels.com/photos/1662298/pexels-photo-1662298.jpeg?auto=compress&cs=tinysrgb&w=800',
+      src: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/pesca/primo-airel.jpeg',
       alt: 'Equipo de pesca con carnada',
       category: 'bait-fishing',
       title: 'Equipo Profesional',
@@ -95,7 +95,7 @@ const PhotoGallery = () => {
     // Fly Fishing
     {
       id: 9,
-      src: 'src/assets/img/pesca/JOSE-JAHZEEL-ARIEL-LAMEJORATENCION.jpg',
+      src: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/pesca/JOSE-JAHZEEL-ARIEL-LAMEJORATENCION.jpg',
       alt: 'Lanzamiento perfecto de fly fishing',
       category: 'fly-fishing',
       title: 'Paradas a comer en lugares soñados',
@@ -119,7 +119,7 @@ const PhotoGallery = () => {
     },
     {
       id: 12,
-      src: 'src/assets/img/pesca/mosca-para-dorado.jpg',
+      src: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/pesca/mosca-para-dorado.jpg',
       alt: 'Colección de moscas',
       category: 'fly-fishing',
       title: 'Moscas Artesanales',
@@ -129,7 +129,7 @@ const PhotoGallery = () => {
     // Curso de Fly Fishing
     {
       id: 13,
-      src: 'src/assets/img/pesca/practica fly.jpg',
+      src: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/pesca/practica%20fly.jpg',
       alt: 'Instructor enseñando técnica',
       category: 'fly-course',
       title: 'Alumnos Aprendiendo la Técnica',
@@ -137,7 +137,7 @@ const PhotoGallery = () => {
     },
     {
       id: 14,
-      src: 'src/assets/img/pesca/nenito.JPG',
+      src: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/pesca/nenito.JPG',
       alt: 'Estudiante practicando',
       category: 'fly-course',
       title: 'Práctica Supervisada',
@@ -145,7 +145,7 @@ const PhotoGallery = () => {
     },
     {
       id: 15,
-      src: 'src/assets/img/pesca/atardeceres unicos.jpg',
+      src: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/pesca/atardeceres%20unicos.jpg',
       alt: 'Grupo de estudiantes',
       category: 'fly-course',
       title: 'Curso Grupal pero con atencion individual',
@@ -153,7 +153,7 @@ const PhotoGallery = () => {
     },
     {
       id: 16,
-      src: 'src/assets/img/pesca/ariel.najle.jpg',
+      src: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/pesca/ariel.najle.jpg',
       alt: 'Practicas reales en el rio',
       category: 'fly-course',
       title: 'Primera Captura',
