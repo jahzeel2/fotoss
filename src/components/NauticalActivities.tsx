@@ -31,7 +31,7 @@ const NauticalActivities = () => {
       id: 3,
       name: 'Pesca Bait',
       image: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/pesca/IMG-20250624-WA0080.jpg',
-      description: 'Kayaks individuales y dobles para explorar a tu ritmo',
+      description: 'Pesca embarcada  y Pesca en la Islas',
       duration: 'Por horas',
       capacity: '1-2 personas',
       price: '$ A consultar',

@@ -16,11 +16,11 @@ const VirtualStore = () => {
   const products = [
     {
       id: 1,
-      name: 'Chaleco Salvavidas Pro',
+      name: 'SALVAVIDAS PRO KAYAK - AQUAFLOAT',
       category: 'nautical',
-      image: 'https://images.pexels.com/photos/6120213/pexels-photo-6120213.jpeg?auto=compress&cs=tinysrgb&w=400',
-      price: 89,
-      originalPrice: 120,
+      image: 'https://raw.githubusercontent.com/jahzeel2/fotoss/refs/heads/main/src/assets/img/productos/salvavida-pro-kayak-aquafloat1-.png',
+      price: 71.480,
+      originalPrice: 89.350,
       rating: 4.8,
       reviews: 124,
       badge: 'Bestseller'

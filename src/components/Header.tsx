@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Menu, X, Phone, Calendar } from 'lucide-react';
+import { Menu, X, Phone, Calendar, Camera } from 'lucide-react';
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -17,10 +17,17 @@ const Header = () => {
     { name: 'Inicio', href: '#home' },
     { name: 'Cabañas', href: '#cabins' },
     { name: 'Actividades', href: '#activities' },
+    { name: 'Galería', href: '#gallery', icon: Camera },
     { name: 'Tienda', href: '#store' },
     { name: 'Experiencias', href: '#experiences' },
     { name: 'Contacto', href: '#contact' }
   ];
+
+  const handleGalleryClick = (e: React.MouseEvent) => {
+    e.preventDefault();
+    // Trigger the photo gallery view
+    window.dispatchEvent(new CustomEvent('showPhotoGallery'));
+  };
 
   return (
     <header className={`fixed top-0 w-full z-50 transition-all duration-300 ${
@@ -45,9 +52,11 @@ const Header = () => {
               <a
                 key={item.name}
                 href={item.href}
-                className="text-gray-700 hover:text-blue-600 transition-colors duration-200 font-medium"
+                onClick={item.name === 'Galería' ? handleGalleryClick : undefined}
+                className="text-gray-700 hover:text-blue-600 transition-colors duration-200 font-medium flex items-center space-x-1"
               >
-                {item.name}
+                {item.icon && <item.icon size={16} />}
+                <span>{item.name}</span>
               </a>
             ))}
           </nav>
@@ -84,10 +93,11 @@ const Header = () => {
                 <a
                   key={item.name}
                   href={item.href}
-                  className="block text-gray-700 hover:text-blue-600 transition-colors py-2"
-                  onClick={() => setIsMenuOpen(false)}
+                  onClick={item.name === 'Galería' ? handleGalleryClick : undefined}
+                  className="block text-gray-700 hover:text-blue-600 transition-colors py-2 flex items-center space-x-2"
                 >
-                  {item.name}
+                  {item.icon && <item.icon size={16} />}
+                  <span>{item.name}</span>
                 </a>
               ))}
               <div className="pt-4 border-t">
